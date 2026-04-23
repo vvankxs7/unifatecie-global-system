@@ -1,4 +1,4 @@
-# 🌍 Unifatecie Global System
+# 🌍 Unifatecie Maranguape System
 > **Status:** 🛠️ Em desenvolvimento (Fase 1: Lógica de Negócio & POO)
 
 Sistema internacional para gerenciamento de cursos da Unifatecie, desenvolvido com foco em **Software Architecture** e **DevSecOps**.
